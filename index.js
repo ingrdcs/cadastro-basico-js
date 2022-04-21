@@ -19,7 +19,7 @@ alert('Usuário cadastrado com sucesso! Pressione OK');
 alert('Obrigado! Agora pressione enter para conferir os dados');
 
 alert(`Dados do paciente:\n Nome: ${nomeDousuário}\n Idade: ${idade}\n Sexo: ${sexo}\n Nome da rua: ${nomeDaRua}\n Número da rua: ${numRua}\n 
-Nome do bairro: ${bairro}\n Cidade: ${cidade}\n Estado: ${estado}\n Comorbidades: ${comorbidades} \n\n Até mais!`);
+Nome do bairro: ${bairro}\n Cidade: ${cidade}\n Estado: ${estado} \n\n Até mais!`);
 
 
 
